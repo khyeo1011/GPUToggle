@@ -1,0 +1,17 @@
+# Build output
+helper/helper.exe
+*.exe
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+CLAUDE.md

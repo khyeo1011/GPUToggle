@@ -1,0 +1,9 @@
+{
+  "name": "com.gputoggle.helper",
+  "description": "GPU Toggle native helper",
+  "path": "PLACEHOLDER_HELPER_PATH",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://PLACEHOLDER_EXTENSION_ID/"
+  ]
+}
